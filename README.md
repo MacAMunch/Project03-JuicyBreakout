@@ -1,6 +1,6 @@
 # Project03-JuicyBreakout
 
-# Project Name
+# Project Name: Breaking Time
 Context and date
 
 Description
@@ -12,4 +12,4 @@ Which features you included
 
 ## Future Development
 
-## Created by
+## Created by Drake (Mac) Naaman
