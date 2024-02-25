@@ -18,7 +18,6 @@ Added unique smile
 Comet Trail
 Shader background
 Background 
-Level to Level
 ## References
 https://www.piskelapp.com/p/create/sprite
 https://sfbgames.itch.io/chiptone
